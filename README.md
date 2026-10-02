@@ -2,6 +2,8 @@
 
 Currency converter similar to the one in Google search. Next.js, TypeScript, TanStack Query, Zod, Mantine, data from the [CurrencyBeacon](https://currencybeacon.com) API. The original task is in [ASSIGNMENT.md](./ASSIGNMENT.md).
 
+Live demo: https://vipiven-currency-converter.vercel.app
+
 ## Running locally
 
 Requires Node.js 20.9+ and a free CurrencyBeacon API key (https://currencybeacon.com/register, the key is on the dashboard under "API Token Information").
